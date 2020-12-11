@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REPTE", "REPTE\REPTE.csproj", "{13BE8390-359A-411F-AF2F-7AC72F9EAB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BE8390-359A-411F-AF2F-7AC72F9EAB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BE8390-359A-411F-AF2F-7AC72F9EAB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BE8390-359A-411F-AF2F-7AC72F9EAB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BE8390-359A-411F-AF2F-7AC72F9EAB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0561B4-3C48-4D83-8B65-60C1A86D7531}
+	EndGlobalSection
+EndGlobal
